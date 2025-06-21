@@ -103,7 +103,7 @@ Try the AI-powered recommendation feature
 
 
 
-
+https://github.com/Preye2/AI-powered-moie-app/blob/09dfa4570c1c7cb6439195898900abc25a554ae2/Favourite-mongo.jpg
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
